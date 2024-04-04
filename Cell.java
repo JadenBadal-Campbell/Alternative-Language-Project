@@ -1,4 +1,4 @@
-public class MobileDevice {
+public class Cell {
     private String oem; 
     private String model; 
     private String launchAnnounced ;

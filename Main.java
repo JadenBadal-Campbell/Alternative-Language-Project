@@ -16,7 +16,7 @@ public class Main {
     public static void main(String[] args) {
         String inputCsvFile = "cells.csv"; // Path to your input CSV file
         String outputCsvFile = "cells_sanitized.csv"; // Path to your output CSV file
-        MobileDevice obj = new MobileDevice();
+        Cell obj = new Cell();
         try {
             FileReader fileReader = new FileReader(inputCsvFile);
             CSVParser parser = new CSVParser(fileReader, CSVFormat.DEFAULT.withFirstRecordAsHeader());
