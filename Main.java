@@ -6,8 +6,7 @@ import java.io.IOException;
 import java.io.Writer;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
+
 
 public class Main {
     @SuppressWarnings("deprecation")
@@ -26,16 +25,16 @@ public class Main {
             for (CSVRecord record : parser) {
                 String oem = record.get("oem").isEmpty() ? "null" : record.get("oem");
                 String model = record.get("model").isEmpty() ? "null" : record.get("model");
-                String launchAnnounced = extractYear(record.get("launch_announced"));
-                String launchStatus = cleanLaunchStatus(record.get("launch_status"));
+                String launchAnnounced = UtilityMethods.extractYear(record.get("launch_announced"));
+                String launchStatus = UtilityMethods.cleanLaunchStatus(record.get("launch_status"));
                 String bodyDimensions = record.get("body_dimensions").equals("-") ? "null" : record.get("body_dimensions").replace(","," ");
-                String bodyWeight = extractWeight(record.get("body_weight"));
-                String bodySim = cleanBodySim(record.get("body_sim").replace(","," "));
+                String bodyWeight = UtilityMethods.extractWeight(record.get("body_weight"));
+                String bodySim = UtilityMethods.cleanBodySim(record.get("body_sim").replace(","," "));
                 String displayType = record.get("display_type").isEmpty() ? "null" : record.get("display_type").replace(","," ");
                 String displaySize =  record.get("display_size").isEmpty() ? "null" :record.get("display_size").replace(","," ");
                 String displayResolution = record.get("display_resolution").isEmpty() ? "null" : record.get("display_resolution").replace(","," ");
                 String featuresSensors = record.get("features_sensors").isEmpty() ? "null" : record.get("features_sensors").replace(","," ");
-                String platformOs = cleanPlatformOs(record.get("platform_os").replace(","," "));
+                String platformOs = UtilityMethods.cleanPlatformOs(record.get("platform_os").replace(","," "));
 
                 // Constructing cleaned record
                 String cleanedRecord = String.join(",", new String[]{oem, model, launchAnnounced, launchStatus,
@@ -67,39 +66,7 @@ public class Main {
         }
     }
 
-    private static String extractYear(String launchAnnounced) {
-        Pattern pattern = Pattern.compile("\\b(19|20)\\d{2}\\b");
-        Matcher matcher = pattern.matcher(launchAnnounced);
-        return matcher.find() ? matcher.group(0) : "null";
-    }
-    
-    private static String extractWeight(String bodyWeight) {
-        Pattern pattern = Pattern.compile("(\\d+) g");
-        Matcher matcher = pattern.matcher(bodyWeight);
-        return matcher.find() ? matcher.group(1) : "null";
-    }
-
-    private static String cleanLaunchStatus(String launchStatus) {
-        if (launchStatus.contains("Discontinued") || launchStatus.contains("Cancelled")) {
-            return launchStatus;
-        } else {
-            return extractYear(launchStatus);
-        }
-    }
-
-    
-    private static String cleanBodySim(String bodySim) {
-        return bodySim.equals("No") || bodySim.equals("Yes") ? "null" : bodySim;
-    }
-
-    
-    private static String cleanPlatformOs(String platformOs) {
-        if (platformOs == null || platformOs.isEmpty()) {
-            return "null";
-        }
-        int commaIndex = platformOs.indexOf(',');
-        return commaIndex != -1 ? platformOs.substring(0, commaIndex) : platformOs;
-    }
+   
 }
 
 
