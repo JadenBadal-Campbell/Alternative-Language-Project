@@ -3,6 +3,7 @@ import java.util.regex.Pattern;
 
 public class UtilityMethods {
 
+
      static String extractYear(String launchAnnounced) {
         Pattern pattern = Pattern.compile("\\b(19|20)\\d{2}\\b");
         Matcher matcher = pattern.matcher(launchAnnounced);
@@ -37,5 +38,5 @@ public class UtilityMethods {
     }
 
 
-
 }
+
