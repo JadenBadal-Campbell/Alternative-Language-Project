@@ -79,12 +79,6 @@ public class Main {
         return matcher.find() ? matcher.group(1) : "null";
     }
 
-    private static String extractDisplaySize(String displaySize) {
-        Pattern pattern = Pattern.compile("(\\d+\\.?\\d*) inches");
-        Matcher matcher = pattern.matcher(displaySize);
-        return matcher.find() ? matcher.group(1) : "null";
-    }
-
     private static String cleanLaunchStatus(String launchStatus) {
         if (launchStatus.contains("Discontinued") || launchStatus.contains("Cancelled")) {
             return launchStatus;
