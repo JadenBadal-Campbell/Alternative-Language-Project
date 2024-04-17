@@ -31,7 +31,14 @@ public class Main {
                 cell.setProperty("model",record.get("model").isEmpty() ? "null" : record.get("model"));
                 cell.setProperty("launch_announced",UtilityMethods.extractYear(record.get("launch_announced")));
                 cell.setProperty("launch_status",UtilityMethods.cleanLaunchStatus(record.get("launch_status")));
-                cell.setProperty("body_dimension",record.get("body_dimensions").equals("-") ? "null" : record.get("body_dimensions").replace(","," "));
+                
+                String bodyDims = record.get("body_dimensions").trim();
+                if (bodyDims.isEmpty() || bodyDims.equals("-")) {
+                    cell.setProperty("body_dimensions", "null");
+                } else {
+                    bodyDims = bodyDims.replace(",", ";");  // Replace commas if any to avoid CSV format issues
+                    cell.setProperty("body_dimensions", bodyDims);
+                }
                 cell.setProperty("body_weight",UtilityMethods.extractWeight(record.get("body_weight")));
                 cell.setProperty("body_sim",UtilityMethods.cleanBodySim(record.get("body_sim").replace(","," ")));
                 cell.setProperty("display_type",record.get("display_type").isEmpty() ? "null" : record.get("display_type").replace(","," "));
@@ -39,6 +46,7 @@ public class Main {
                 cell.setProperty("display_resolution",record.get("display_resolution").isEmpty() ? "null" : record.get("display_resolution").replace(","," "));
                 cell.setProperty("features_sensors",record.get("features_sensors").isEmpty() ? "null" : record.get("features_sensors").replace(","," "));
                 cell.setProperty("platform_os",UtilityMethods.cleanPlatformOs(record.get("platform_os").replace(","," ")));
+               
                 // Constructing cleaned record
                 List<String> values = parser.getHeaderNames().stream()
                                            .map(header -> cell.getProperty(header))
