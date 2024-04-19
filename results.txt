@@ -1,0 +1,433 @@
+Company with the highest average weight: Lenovo
+Phones announced and released in different years:
+Benefon Vega - Announced: 1999, Released: Discontinued
+Garmin-Asus nuvifone M10 - Announced: 2010, Released: Discontinued
+Gigabyte GSmart G1305 Boston - Announced: 2010, Released: Discontinued
+Haier N60 - Announced: 2005, Released: Discontinued
+Haier T3000 - Announced: 2005, Released: Discontinued
+Haier V280 - Announced: 2005, Released: Discontinued
+Haier V190 - Announced: 2004, Released: Discontinued
+Haier V100 - Announced: 2004, Released: Discontinued
+Haier P5 - Announced: 2003, Released: Discontinued
+Haier Z8000 - Announced: 2004, Released: Discontinued
+HP Slate8 Pro - Announced: 2013, Released: Discontinued
+Huawei Ascend Plus - Announced: 2014, Released: Discontinued
+Huawei MediaPad 7 Youth - Announced: 2013, Released: Discontinued
+Huawei G7002 - Announced: 2010, Released: Discontinued
+i-mate PDA2 - Announced: 2004, Released: Discontinued
+i-mate Smartphone2 - Announced: 2004, Released: Discontinued
+i-mate Smartphone - Announced: 2004, Released: Discontinued
+i-mobile 510 - Announced: 2006, Released: Discontinued
+i-mobile 315 - Announced: 2007, Released: Discontinued
+Icemobile Gravity 4.0 - Announced: 2014, Released: Discontinued
+Icemobile Prime 5.5 - Announced: 2014, Released: Discontinued
+Icemobile Prime 4.5 - Announced: 2014, Released: Discontinued
+Icemobile Gravity Pro - Announced: 2013, Released: Discontinued
+Icemobile Quattro - Announced: 2012, Released: Discontinued
+Innostream INNO A20 - Announced: 2005, Released: Discontinued
+Innostream INNO 75 - Announced: 2004, Released: Discontinued
+Innostream INNO 79 - Announced: 2004, Released: Discontinued
+Innostream INNO 78 - Announced: 2004, Released: Discontinued
+Innostream INNO 30 - Announced: 2004, Released: Discontinued
+Innostream INNO 55 - Announced: 2004, Released: Discontinued
+Innostream INNO 70 - Announced: 2004, Released: Discontinued
+Innostream INNO 99 - Announced: 2004, Released: Discontinued
+Innostream INNO 120 - Announced: 2003, Released: Discontinued
+Innostream INNO 110 - Announced: 2003, Released: Discontinued
+Innostream INNO 100 - Announced: 2003, Released: Discontinued
+Kyocera TG 200 - Announced: 2000, Released: Discontinued
+LG L20 - Announced: 2014, Released: Discontinued
+LG KM338 - Announced: 2008, Released: Discontinued
+LG U890 - Announced: 2006, Released: Discontinued
+LG P7200 - Announced: 2005, Released: Discontinued
+LG B2050 - Announced: 2005, Released: Discontinued
+LG M4410 - Announced: 2005, Released: Discontinued
+LG M4330 - Announced: 2005, Released: Cancelled
+LG M4300 - Announced: 2005, Released: Discontinued
+LG F3000 - Announced: 2005, Released: Discontinued
+LG F2410 - Announced: 2005, Released: Discontinued
+LG F2250 - Announced: 2005, Released: Discontinued
+LG U8290 - Announced: 2006, Released: Discontinued
+LG U8210 - Announced: 2005, Released: Discontinued
+LG U8200 - Announced: 2005, Released: Discontinued
+LG B2150 - Announced: 2005, Released: Discontinued
+LG B2100 - Announced: 2005, Released: Discontinued
+LG B2000 - Announced: 2005, Released: Discontinued
+LG F2400 - Announced: 2005, Released: Discontinued
+LG F1200 - Announced: 2005, Released: Discontinued
+LG F7250 - Announced: 2004, Released: Discontinued
+LG C2100 - Announced: 2005, Released: Discontinued
+LG G1800 - Announced: 2004, Released: Discontinued
+LG G1610 - Announced: 2005, Released: Discontinued
+LG G1700 - Announced: 2004, Released: Discontinued
+LG F2300 - Announced: 2005, Released: Discontinued
+LG F2100 - Announced: 2004, Released: Discontinued
+LG L3100 - Announced: 2004, Released: Discontinued
+LG C1200 - Announced: 2004, Released: Discontinued
+LG G1600 - Announced: 2004, Released: Discontinued
+LG G7200 - Announced: 2004, Released: Discontinued
+LG U8150 - Announced: 2003, Released: Discontinued
+LG G7070 - Announced: 2003, Released: Discontinued
+LG G7050 - Announced: 2003, Released: Discontinued
+LG G1500 - Announced: 2004, Released: Discontinued
+LG G5310 - Announced: 2003, Released: Discontinued
+LG W7020 - Announced: 2002, Released: Discontinued
+LG W5200 - Announced: 2002, Released: Discontinued
+LG LG-600 - Announced: 2002, Released: Discontinued
+LG LG-500 - Announced: 2002, Released: Discontinued
+Maxon MX-C90 - Announced: 2003, Released: Discontinued
+Maxon MX-C80 - Announced: 2003, Released: Discontinued
+Maxon MX-C180 - Announced: 2003, Released: Discontinued
+Maxon MX-A30 - Announced: 2004, Released: Discontinued
+Maxon MX-C60 - Announced: 2003, Released: Discontinued
+Maxon MX-C20 - Announced: 2003, Released: Discontinued
+Maxon MX-C110 - Announced: 2004, Released: Discontinued
+Maxon MX-E10 - Announced: 2003, Released: Discontinued
+Maxon MX-V10 - Announced: 2004, Released: Discontinued
+Maxon MX-V30 - Announced: 2004, Released: Discontinued
+Maxon MX-7990 - Announced: 2003, Released: Discontinued
+Maxon MX-E80 - Announced: 2004, Released: Cancelled
+Maxon MX-7750 - Announced: 2004, Released: Discontinued
+Maxon MX-C11 - Announced: 2004, Released: Discontinued
+Maxon MX-C160 - Announced: 2004, Released: Discontinued
+Maxon MX-7940 - Announced: 2003, Released: Discontinued
+Maxon MX-7920 - Announced: 2003, Released: Discontinued
+Maxon MX-7830 - Announced: 2003, Released: Discontinued
+Maxon MX-7600 - Announced: 2003, Released: Discontinued
+Maxon MX-6879 - Announced: 2000, Released: Discontinued
+Maxon MX-6869 - Announced: 2000, Released: Discontinued
+Maxon MX-6815 - Announced: 1999, Released: Discontinued
+Maxon MX-6814 - Announced: 1999, Released: Discontinued
+Micromax A36 Bolt - Announced: 2014, Released: Discontinued
+Micromax A28 Bolt - Announced: 2014, Released: Discontinued
+Micromax Bolt A62 - Announced: 2013, Released: Discontinued
+Micromax Bolt A35 - Announced: 2013, Released: Discontinued
+Micromax Bolt A27 - Announced: 2013, Released: Discontinued
+Micromax GC275 - Announced: 2010, Released: Discontinued
+Mitac MIO Leap G50 - Announced: 2008, Released: Discontinued
+Mitac MIO Leap K1 - Announced: 2008, Released: Discontinued
+Mitac MIO A701 - Announced: 2005, Released: Discontinued
+Mitac MIO 8870 - Announced: 2004, Released: Discontinued
+Mitac MIO 8860 - Announced: 2004, Released: Cancelled
+Mitsubishi M750 - Announced: 2003, Released: Discontinued
+Mitsubishi M342i - Announced: 2004, Released: Discontinued
+Mitsubishi M341i/M720 - Announced: 2003, Released: Discontinued
+Mitsubishi Trium Eclipse - Announced: 2001, Released: Discontinued
+Mitsubishi Trium Sirius - Announced: 2001, Released: Discontinued
+Mitsubishi Trium Mondo - Announced: 2000, Released: Discontinued
+Motorola One Hyper - Announced: 2019, Released: 2020
+Motorola Razr 2019 - Announced: 2019, Released: 2020
+Motorola XOOM MZ604 - Announced: 2011, Released: Discontinued
+Motorola XOOM MZ601 - Announced: 2011, Released: Discontinued
+Motorola QUENCH - Announced: 2010, Released: Discontinued
+Motorola XT701 - Announced: 2009, Released: Discontinued
+Motorola A910 - Announced: 2005, Released: Discontinued
+Motorola E895 - Announced: 2005, Released: Discontinued
+Motorola E1060 - Announced: 2005, Released: Cancelled
+Motorola C168 - Announced: 2005, Released: Discontinued
+Motorola E680i - Announced: 2005, Released: Discontinued
+Motorola V560 - Announced: 2005, Released: Cancelled
+Motorola V186 - Announced: 2005, Released: Discontinued
+Motorola V176 - Announced: 2005, Released: Discontinued
+Motorola C980 - Announced: 2004, Released: Discontinued
+Motorola A780 - Announced: 2004, Released: Discontinued
+Motorola C975 - Announced: 2004, Released: Discontinued
+Motorola V555 - Announced: 2004, Released: Discontinued
+Motorola A840 - Announced: 2004, Released: Discontinued
+Motorola E398 - Announced: 2004, Released: Discontinued
+Motorola MPx - Announced: 2004, Released: Discontinued
+Motorola MPx100 - Announced: 2004, Released: Cancelled
+Motorola V872 - Announced: 2004, Released: Discontinued
+Motorola V878 - Announced: 2003, Released: Discontinued
+Motorola A925 - Announced: 2003, Released: Discontinued
+Motorola A920 - Announced: 2003, Released: Discontinued
+Motorola V690 - Announced: 2003, Released: Discontinued
+Motorola A835 - Announced: 2003, Released: Discontinued
+Motorola T725 - Announced: 2003, Released: Discontinued
+Motorola T720i - Announced: 2002, Released: Discontinued
+Motorola T720 - Announced: 2002, Released: Discontinued
+Motorola V70 - Announced: 2002, Released: Discontinued
+Motorola C336 - Announced: 2002, Released: Discontinued
+Motorola C332 - Announced: 2002, Released: Discontinued
+Motorola C331 - Announced: 2002, Released: Discontinued
+Motorola V60i - Announced: 2002, Released: Discontinued
+Motorola Accompli 388 - Announced: 2002, Released: Discontinued
+Motorola V60 - Announced: 2001, Released: Discontinued
+Motorola Accompli 008 - Announced: 2002, Released: Discontinued
+Motorola Timeport 280 - Announced: 2001, Released: Discontinued
+Motorola V.box(V100) - Announced: 2000, Released: Discontinued
+Motorola StarTAC 130 - Announced: 1998, Released: Discontinued
+Motorola StarTAC 85 - Announced: 1997, Released: Discontinued
+Motorola StarTAC Rainbow - Announced: 1997, Released: Discontinued
+Motorola StarTAC 75+ - Announced: 1997, Released: Discontinued
+Motorola StarTAC 75 - Announced: 1997, Released: Discontinued
+Motorola SlimLite - Announced: 1997, Released: Discontinued
+Motorola cd930 - Announced: 1998, Released: Discontinued
+Motorola cd920 - Announced: 1998, Released: Discontinued
+Motorola M3188 - Announced: 1999, Released: Discontinued
+Motorola M3288 - Announced: 1999, Released: Discontinued
+Motorola M3588 - Announced: 1999, Released: Discontinued
+Motorola M3688 - Announced: 1999, Released: Discontinued
+Motorola M3788 - Announced: 1999, Released: Discontinued
+Motorola M3888 - Announced: 1999, Released: Discontinued
+NEC N401i - Announced: 2005, Released: Discontinued
+NEC N343i - Announced: 2005, Released: Discontinued
+NEC N200 - Announced: 2005, Released: Discontinued
+NEC N923 - Announced: 2004, Released: Discontinued
+NEC N920 - Announced: 2004, Released: Discontinued
+NEC e338 - Announced: 2004, Released: Discontinued
+NEC e228 - Announced: 2004, Released: Discontinued
+NEC N410i - Announced: 2004, Released: Discontinued
+NEC N400i - Announced: 2004, Released: Discontinued
+NEC N331i - Announced: 2004, Released: Discontinued
+NEC N830 - Announced: 2004, Released: Discontinued
+NEC N820 - Announced: 2003, Released: Discontinued
+NEC e606 - Announced: 2003, Released: Discontinued
+NEC e232 - Announced: 2003, Released: Discontinued
+NEC DB4100 - Announced: 2000, Released: Discontinued
+NEC G9D+ - Announced: 1997, Released: Discontinued
+Neonode N1m - Announced: 2005, Released: Discontinued
+Nokia X6 8GB (2010) - Announced: 2010, Released: Discontinued
+Nokia X6 16GB (2010) - Announced: 2010, Released: Discontinued
+Nokia X6 (2009) - Announced: 2009, Released: Discontinued
+Nokia 6131 NFC - Announced: 2007, Released: Discontinued
+O2 Cosmo - Announced: 2006, Released: Discontinued
+O2 XDA Orion - Announced: 2005, Released: Discontinued
+O2 X1b - Announced: 2005, Released: Discontinued
+O2 XM - Announced: 2005, Released: Discontinued
+O2 X4 - Announced: 2004, Released: Discontinued
+O2 XDA IIs - Announced: 2004, Released: Discontinued
+O2 XDA IIi - Announced: 2004, Released: Discontinued
+O2 Xphone II - Announced: 2004, Released: Discontinued
+O2 XDA II - Announced: 2003, Released: Discontinued
+O2 Xphone - Announced: 2003, Released: Discontinued
+O2 XDA - Announced: 2003, Released: Discontinued
+Oppo A31 (2015) - Announced: 2015, Released: Discontinued
+Orange Gova - Announced: 2014, Released: Discontinued
+Palm Treo 650 - Announced: 2004, Released: Discontinued
+Panasonic Eluga DL1 - Announced: 2012, Released: Discontinued
+Panasonic VS7 - Announced: 2005, Released: Discontinued
+Panasonic MX7 - Announced: 2005, Released: Discontinued
+Panasonic SA7 - Announced: 2005, Released: Discontinued
+Panasonic X70 - Announced: 2003, Released: Discontinued
+Panasonic GD87 - Announced: 2002, Released: Discontinued
+Panasonic GD67 - Announced: 2002, Released: Discontinued
+Panasonic GD75 - Announced: 2001, Released: Discontinued
+Panasonic GD35 - Announced: 2001, Released: Discontinued
+Panasonic GD93 - Announced: 2000, Released: Discontinued
+Panasonic GD30 - Announced: 1999, Released: Discontinued
+Pantech Crux - Announced: 2010, Released: Discontinued
+Pantech Laser P9050 - Announced: 2010, Released: Discontinued
+Pantech GF100 - Announced: 2005, Released: Discontinued
+Pantech GF200 - Announced: 2004, Released: Discontinued
+Pantech GB100 - Announced: 2004, Released: Discontinued
+Philips W5510 - Announced: 2013, Released: Discontinued
+Philips W6350 - Announced: 2012, Released: Discontinued
+Philips W930 - Announced: 2012, Released: Discontinued
+Philips 362 - Announced: 2005, Released: Discontinued
+Philips 868 - Announced: 2005, Released: Cancelled
+Philips 859 - Announced: 2004, Released: Discontinued
+Philips Fisio 625 - Announced: 2002, Released: Discontinued
+Philips Fisio 620 - Announced: 2002, Released: Discontinued
+Philips Fisio 610 - Announced: 2001, Released: Discontinued
+Philips Azalis 268 - Announced: 2000, Released: Discontinued
+Philips Azalis 238 - Announced: 2000, Released: Discontinued
+Philips Diga - Announced: 1997, Released: Discontinued
+Philips Fizz - Announced: 1996, Released: Discontinued
+Qtek 8600 - Announced: 2006, Released: Discontinued
+Qtek 8300 - Announced: 2005, Released: Discontinued
+Qtek 8080 - Announced: 2004, Released: Discontinued
+Qtek 8060 - Announced: 2004, Released: Discontinued
+Qtek 1010 - Announced: 2003, Released: Discontinued
+Qtek 7070 - Announced: 2004, Released: Discontinued
+Sagem my411C Oxbow - Announced: 2008, Released: Discontinued
+Sagem my230x - Announced: 2008, Released: Discontinued
+Sagem my900C - Announced: 2006, Released: Cancelled
+Sagem my500X - Announced: 2006, Released: Discontinued
+Sagem my400V - Announced: 2007, Released: Cancelled
+Sagem my301X - Announced: 2005, Released: Discontinued
+Sagem my200x - Announced: 2006, Released: Discontinued
+Sagem my100X - Announced: 2006, Released: Discontinued
+Sagem MY C2-3 - Announced: 2005, Released: Discontinued
+Sagem myZ-5 - Announced: 2006, Released: Discontinued
+Sagem MY C3-2 - Announced: 2005, Released: Discontinued
+Sagem MY Z-55 - Announced: 2005, Released: Discontinued
+Sagem MY X6-2 - Announced: 2005, Released: Discontinued
+Sagem MY X2-2 - Announced: 2005, Released: Discontinued
+Sagem MY C5-2 - Announced: 2004, Released: Discontinued
+Sagem MY X1-2 - Announced: 2005, Released: Discontinued
+Sagem MY X-8 - Announced: 2004, Released: Discontinued
+Sagem MY X-4 - Announced: 2004, Released: Discontinued
+Sagem MY S-7 - Announced: 2004, Released: Discontinued
+Sagem MY Z-3 - Announced: 2004, Released: Discontinued
+Sagem MY C2-2 - Announced: 2004, Released: Discontinued
+Sagem SG 321i - Announced: 2004, Released: Discontinued
+Sagem MY V-55 - Announced: 2004, Released: Discontinued
+Sagem MY X5-2 - Announced: 2004, Released: Discontinued
+Sagem MY V-75 - Announced: 2004, Released: Discontinued
+Sagem MY X-7 - Announced: 2004, Released: Discontinued
+Sagem MY V-65 - Announced: 2003, Released: Discontinued
+Sagem MY C-1 - Announced: 2003, Released: Discontinued
+Sagem MY X-1w - Announced: 2003, Released: Discontinued
+Sagem MY C-2 - Announced: 2003, Released: Discontinued
+Sagem MY C-6 - Announced: 2003, Released: Discontinued
+Sagem MY C-5w - Announced: 2003, Released: Discontinued
+Sagem MY X-2 - Announced: 2003, Released: Discontinued
+Sagem MY X-6 - Announced: 2003, Released: Discontinued
+Sagem MY G5 - Announced: 2002, Released: Discontinued
+Sagem MY X-3 - Announced: 2002, Released: Discontinued
+Sagem MY X-5 - Announced: 2002, Released: Discontinued
+Sagem MY 3078 - Announced: 2002, Released: Discontinued
+Sagem MW 3026 - Announced: 2001, Released: Discontinued
+Sagem MW 3052 - Announced: 2001, Released: Discontinued
+Sagem MW 3042 - Announced: 2001, Released: Discontinued
+Sagem MW 3040 - Announced: 2001, Released: Discontinued
+Sagem MW X1 - Announced: 2001, Released: Discontinued
+Sagem WA 3050 - Announced: 2001, Released: Discontinued
+Sagem MW 3020 - Announced: 2001, Released: Discontinued
+Sagem MC 3000 - Announced: 2001, Released: Discontinued
+Sagem MC 939 WAP - Announced: 2000, Released: Discontinued
+Sagem MC 936 - Announced: 2000, Released: Discontinued
+Sagem MC 950 - Announced: 2000, Released: Discontinued
+Sagem MC 959 - Announced: 2000, Released: Discontinued
+Sagem MC 940 - Announced: 2000, Released: Discontinued
+Sagem MC 932 - Announced: 1999, Released: Discontinued
+Sagem RC 922 - Announced: 1999, Released: Discontinued
+Sagem MC 912 - Announced: 1999, Released: Discontinued
+Sagem MC 850 - Announced: 1998, Released: Discontinued
+Sagem MC 825 FM - Announced: 1998, Released: Discontinued
+Sagem MC 820 - Announced: 1998, Released: Discontinued
+Sagem RC 750 - Announced: 1998, Released: Discontinued
+Sagem RC 730 - Announced: 1997, Released: Discontinued
+Samsung E1260B - Announced: 2012, Released: Discontinued
+Samsung Continuum I400 - Announced: 2010, Released: Discontinued
+Samsung Focus - Announced: 2010, Released: Discontinued
+Samsung P940 - Announced: 2006, Released: Cancelled
+Samsung D550 - Announced: 2005, Released: Cancelled
+Samsung P860 - Announced: 2005, Released: Cancelled
+Samsung Z700 - Announced: 2005, Released: Cancelled
+Samsung D710 - Announced: 2004, Released: Cancelled
+Samsung i530 - Announced: 2004, Released: Cancelled
+Samsung i505 - Announced: 2004, Released: Cancelled
+Samsung i250 - Announced: 2004, Released: Cancelled
+Samsung X900 - Announced: 2004, Released: Cancelled
+Samsung E410 - Announced: 2004, Released: Discontinued
+Samsung P705 - Announced: 2003, Released: Cancelled
+Samsung D700 - Announced: 2003, Released: Cancelled
+Samsung P500 - Announced: 2003, Released: Cancelled
+Samsung Watch Phone - Announced: 2003, Released: Cancelled
+Samsung T400 - Announced: 2002, Released: Discontinued
+Samsung Q300 - Announced: 2002, Released: Discontinued
+Samsung Q200 - Announced: 2002, Released: Discontinued
+Samsung A400 - Announced: 2001, Released: Discontinued
+Samsung Q100 - Announced: 2001, Released: Discontinued
+Samsung SGH-250 - Announced: 1996, Released: Discontinued
+Sendo P600 - Announced: 2004, Released: Discontinued
+Sendo SV663 - Announced: 2004, Released: Discontinued
+Sendo M570 - Announced: 2004, Released: Discontinued
+Sendo S330 - Announced: 2003, Released: Discontinued
+Sendo J520 - Announced: 2001, Released: Discontinued
+Sewon SRS-3300 - Announced: 2005, Released: Discontinued
+Sewon SRD-3000 - Announced: 2004, Released: Discontinued
+Sewon SRD-200 - Announced: 2004, Released: Discontinued
+Sewon SGD-1050 - Announced: 2004, Released: Discontinued
+Sewon SGD-1030 - Announced: 2004, Released: Discontinued
+Sewon SGD-1020 - Announced: 2004, Released: Discontinued
+Sewon SGD-1010 - Announced: 2004, Released: Discontinued
+Sewon SGD-1000 - Announced: 2004, Released: Discontinued
+Sewon SGD-106 - Announced: 2004, Released: Discontinued
+Sewon SGD-105 - Announced: 2004, Released: Discontinued
+Sewon SGD-102 - Announced: 2004, Released: Discontinued
+Sewon SGD-101 - Announced: 2004, Released: Discontinued
+Sewon SG-2890CD - Announced: 2004, Released: Discontinued
+Sewon SG-2300CD - Announced: 2004, Released: Discontinued
+Sewon SG-2320CD - Announced: 2004, Released: Discontinued
+Sewon SG-2200CD - Announced: 2004, Released: Discontinued
+Sewon SG-P100 - Announced: 2004, Released: Discontinued
+Sharp AQUOS  941SH - Announced: 2009, Released: Discontinued
+Sharp 940SH - Announced: 2009, Released: Discontinued
+Sharp 550SH - Announced: 2006, Released: Discontinued
+Sharp GX17 - Announced: 2005, Released: Discontinued
+Sharp GX40 - Announced: 2005, Released: Discontinued
+Sharp GX25/GZ200 - Announced: 2004, Released: Discontinued
+Sharp TM150 - Announced: 2004, Released: Discontinued
+Sharp GX30 - Announced: 2004, Released: Discontinued
+Sharp GX22 - Announced: 2003, Released: Discontinued
+Sharp GX20 - Announced: 2003, Released: Discontinued
+Sharp GX10i - Announced: 2003, Released: Discontinued
+Sharp GX10 - Announced: 2002, Released: Discontinued
+Sharp GX1 - Announced: 2002, Released: Discontinued
+Siemens CX70 - Announced: 2004, Released: Discontinued
+Siemens PenPhone - Announced: 2004, Released: Cancelled
+Siemens ST60 - Announced: 2004, Released: Discontinued
+Siemens U15 - Announced: 2003, Released: Discontinued
+Siemens ST55 - Announced: 2003, Released: Discontinued
+Siemens Xelibri 1 - Announced: 2003, Released: Discontinued
+Siemens Xelibri 2 - Announced: 2003, Released: Discontinued
+Siemens Xelibri 3 - Announced: 2003, Released: Discontinued
+Siemens Xelibri 4 - Announced: 2003, Released: Discontinued
+Siemens M55 - Announced: 2003, Released: Discontinued
+Siemens SL55 - Announced: 2003, Released: Discontinued
+Siemens S55 - Announced: 2002, Released: Discontinued
+Siemens SX45 - Announced: 2001, Released: Discontinued
+Siemens SL45i - Announced: 2001, Released: Discontinued
+Siemens SL42 - Announced: 2001, Released: Discontinued
+Siemens SL45 - Announced: 2000, Released: Discontinued
+Siemens A36 - Announced: 2000, Released: Discontinued
+Siemens M30 - Announced: 2000, Released: Discontinued
+Siemens C28 - Announced: 2000, Released: Discontinued
+Sony CMD Z7 - Announced: 2001, Released: Discontinued
+Sony CMD J70 - Announced: 2001, Released: Discontinued
+Sony CMD J7 - Announced: 2001, Released: Discontinued
+Sony CMD J6 - Announced: 2001, Released: Discontinued
+Sony CMD Z1 plus - Announced: 1997, Released: Discontinued
+Sony CMD Z1 - Announced: 1997, Released: Discontinued
+Sony CM-DX 2000 - Announced: 1997, Released: Discontinued
+Sony CM-DX 1000 - Announced: 1997, Released: Discontinued
+Sony Ericsson Z700 - Announced: 2002, Released: Cancelled
+Spice Mi-285 Stellar - Announced: 2012, Released: Discontinued
+Tel.Me. T918 - Announced: 2003, Released: Discontinued
+Tel.Me. T919i - Announced: 2003, Released: Discontinued
+Tel.Me. T919 - Announced: 2003, Released: Discontinued
+Telit C1000 - Announced: 2005, Released: Discontinued
+Telit T91 - Announced: 2004, Released: Discontinued
+Telit T90 - Announced: 2004, Released: Discontinued
+Telit NEO - Announced: 2004, Released: Discontinued
+Telit G83 - Announced: 2003, Released: Discontinued
+Telit G80 - Announced: 2002, Released: Discontinued
+Telit G82 - Announced: 2002, Released: Discontinued
+Telit G40 - Announced: 2003, Released: Discontinued
+Telit GM 882 - Announced: 2002, Released: Discontinued
+Telit GM 810 - Announced: 1999, Released: Discontinued
+Telit Estremo - Announced: 1999, Released: Discontinued
+Telit GM 710 - Announced: 1999, Released: Discontinued
+Ulefone T2 Pro - Announced: 2018, Released: Cancelled
+Unnecto Quattro Z - Announced: 2014, Released: Discontinued
+Unnecto Drone Z - Announced: 2014, Released: Discontinued
+Unnecto Drone - Announced: 2012, Released: Discontinued
+Vertu Ascent Ti Damascus Steel - Announced: 2009, Released: Discontinued
+vivo Y15 (2013) - Announced: 2013, Released: Discontinued
+VK Mobile VK4500 - Announced: 2005, Released: Discontinued
+VK Mobile VK800 - Announced: 2005, Released: Discontinued
+Vodafone 247 Solar - Announced: 2010, Released: Discontinued
+Xiaomi Redmi K30 5G - Announced: 2019, Released: 2020
+Xiaomi Mi Mix Alpha - Announced: 2019, Released: 2020
+ZTE Axon 10s Pro 5G - Announced: 2020, Released: Discontinued
+ZTE nubia X 5G - Announced: 2019, Released: Cancelled
+ZTE V889M - Announced: 2012, Released: Discontinued
+ZTE N880E - Announced: 2012, Released: Discontinued
+ZTE Skate Acqua - Announced: 2012, Released: Discontinued
+ZTE Sage - Announced: 2010, Released: Discontinued
+Benefon Vega - Announced: 1999, Released: Discontinued
+Garmin-Asus nuvifone M10 - Announced: 2010, Released: Discontinued
+Gigabyte GSmart G1305 Boston - Announced: 2010, Released: Discontinued
+Haier N60 - Announced: 2005, Released: Discontinued
+Haier T3000 - Announced: 2005, Released: Discontinued
+Haier V280 - Announced: 2005, Released: Discontinued
+Haier V190 - Announced: 2004, Released: Discontinued
+Haier V100 - Announced: 2004, Released: Discontinued
+Haier P5 - Announced: 2003, Released: Discontinued
+Haier Z8000 - Announced: 2004, Released: Discontinued
+HP Slate8 Pro - Announced: 2013, Released: Discontinued
+Number of phones with only one feature sensor: 432
+Year with the most phones launched after 1999: 2019

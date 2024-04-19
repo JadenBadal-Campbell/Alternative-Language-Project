@@ -1,7 +1,11 @@
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
+
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.Writer;
 import java.nio.file.Files;
@@ -14,7 +18,7 @@ import java.util.stream.Collectors;
 public class Main {
     public static void main(String[] args) {
         String inputCsvFile = "cells.csv"; // Path to your input CSV file
-        String outputCsvFile = "cells_sanitized.csv"; // Path to your output CSV file
+        //String outputCsvFile = "cells_sanitized.csv"; // Path to your output CSV file
         List<Cell> cells = readCellsFromCSV(inputCsvFile);
 
         // Queries
@@ -23,12 +27,28 @@ public class Main {
         phonesAnnouncedAndReleasedDifferentYears(cells).forEach(System.out::println);
         System.out.println("Number of phones with only one feature sensor: " + countPhonesWithSingleFeatureSensor(cells));
         System.out.println("Year with the most phones launched after 1999: " + yearWithMostPhonesLaunched(cells));
+
+        // Prepare to write results to a text file
+        File file = new File("results.txt");
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file))) {
+            writer.write("Company with the highest average weight: " + companyWithHighestAverageWeight(cells) + "\n");
+            writer.write("Phones announced and released in different years:\n");
+            for (String detail : phonesAnnouncedAndReleasedDifferentYears(cells)) {
+                writer.write(detail + "\n");
+            }
+            writer.write("Number of phones with only one feature sensor: " + countPhonesWithSingleFeatureSensor(cells) + "\n");
+            writer.write("Year with the most phones launched after 1999: " + yearWithMostPhonesLaunched(cells) + "\n");
+        } catch (IOException e) {
+            System.err.println("Error writing to file: " + e.getMessage());
+        }
     }
+    
 
     public static List<Cell> readCellsFromCSV(String filePath) {
         List<Cell> cells = new ArrayList<>();
         try (FileReader fileReader = new FileReader(filePath);
-             CSVParser parser = new CSVParser(fileReader, CSVFormat.DEFAULT.withFirstRecordAsHeader())) {
+             @SuppressWarnings("deprecation")
+            CSVParser parser = new CSVParser(fileReader, CSVFormat.DEFAULT.withFirstRecordAsHeader())) {
             for (CSVRecord record : parser) {
                 Cell cell = new Cell();
                 cell.setProperty("oem", UtilityMethods.cleanString(record.get("oem").isEmpty()?"null":record.get("oem")));
