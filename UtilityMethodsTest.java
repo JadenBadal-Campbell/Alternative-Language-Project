@@ -1,4 +1,8 @@
+import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileReader;
+import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 import org.junit.Test;
 import static org.junit.Assert.*;
@@ -54,5 +58,22 @@ public class UtilityMethodsTest {
         assertTrue(new File("cells.csv").length() > 0);
     }
 
-    
+    @Test
+        public void testFileContentStructure() {
+    File inputFile = new File("cells.csv");
+    assertTrue(inputFile.exists());  // Check that the file exists
+    assertTrue(inputFile.isFile());  // Check that it's not a directory
+    assertTrue(inputFile.length() > 0);  // Check the file is not empty
+
+    // Optionally, verify the structure
+    try (BufferedReader reader = new BufferedReader(new FileReader(inputFile))) {
+        String headerLine = reader.readLine();
+        assertNotNull(headerLine);
+        // Check some expected columns are present, which are critical for the application
+        List<String> expectedHeaders = Arrays.asList("oem", "model", "launch_announced");
+        assertTrue(expectedHeaders.stream().allMatch(headerLine::contains));
+    } catch (IOException e) {
+        fail("Failed to read from the file: " + e.getMessage());
+    }
+    }
 }
