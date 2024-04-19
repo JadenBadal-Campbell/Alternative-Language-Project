@@ -1,0 +1,57 @@
+Java Alternate Language Assignment
+Language Choice
+Java Version
+The programming language chosen for this project is Java, specifically version 11. Java is a widely used object-oriented and class-based programming language that is designed to have as few implementation dependencies as possible. It is intended to let application developers "write once, run anywhere" (WORA), meaning that compiled Java code can run on all platforms that support Java without the need for recompilation.
+
+Why Java?
+Java was chosen for several reasons:
+
+Object-Oriented: Java is inherently object-oriented, which makes it a robust choice for creating modular programs and reusable code.
+
+Rich API: Java has a rich Application Programming Interface (API) with a wide array of built-in classes for handling everything from data structures to networking.
+
+Strong Community Support: The vast community of Java developers and its extensive resources and documentation make it a reliable choice for development.
+
+Performance: With the use of Just-In-Time (JIT) compilers, Java performance has become highly efficient, making it suitable for high-performance applications.
+Language Features
+
+Object-Oriented Programming (OOP)
+Java is fundamentally object-oriented. Every piece of code and data resides within classes and objects. Java supports core OOP concepts including inheritance, polymorphism, abstraction, and encapsulation, making it powerful for building complex software systems.
+
+File Ingestion
+Java handles file operations through its java.io package and new I/O (java.nio) libraries, which provide mechanisms to read from and write to files. These libraries support both character and byte streams and a rich set of methods for manipulating data.
+
+Conditional Statements
+Java supports standard conditional statements including if, if-else, and switch. These control structures direct the flow of execution based on boolean expressions.
+
+Assignment Statements
+Java uses assignment statements to store expressions in variables using the = operator. It supports multiple types of variables (e.g., int, double, boolean, Object) and complex expressions.
+
+Loops
+Java provides several types of loops to handle repetitive tasks including for, while, and do-while loops, which are fundamental for iterating over data structures or executing repetitive tasks until a condition is met.
+
+Subprograms (Functions/Methods)
+Java organizes code into subprograms through methods, which belong to classes or objects. Methods in Java can have parameters, return types and are invoked using object references or class names (in the case of static methods).
+
+Unit Testing
+Java supports unit testing primarily through frameworks like JUnit. JUnit provides annotations to designate methods as tests and to assert conditions using assertEquals, assertTrue, etc.
+
+Exception Handling
+Java implements robust exception handling with try, catch, finally blocks. Exceptions in Java are objects that are thrown at runtime and can be caught and handled gracefully.
+
+Libraries Used
+1. Apache Commons CSV
+Purpose: To parse and generate CSV files easily.
+Why Chosen: It simplifies handling CSV data, which is essential for the project's focus on reading and writing CSV files.
+Usage: Used for reading data from and writing data to CSV files in a structured manner.
+2. JUnit
+Purpose: To provide a framework for asserting conditions in code and for running tests.
+Why Chosen: JUnit is integral for implementing unit tests in Java, ensuring that code performs as expected.
+Usage: Used to write unit tests for methods, including tests for exceptional and edge cases.
+3. Java NIO (java.nio.file package)
+Purpose: To handle file, directory, and network socket operations more efficiently than java.io.
+Why Chosen: For its more efficient I/O operations compared to traditional I/O interfaces, especially in handling large volumes of data.
+Usage: Used for reading from and writing to files, especially for handling the output of CSV processing.
+Conclusion
+Java's comprehensive features for object-oriented programming, its robust API for file operations, and its strong exception handling make it an excellent choice for building reliable and maintainable applications. The libraries used, including Apache Commons CSV for file operations and JUnit for testing, complement Java’s capabilities, enhancing productivity and code reliability.
+
